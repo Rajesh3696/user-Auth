@@ -1,0 +1,58 @@
+
+.navbar {
+    /* overflow-x: hidden;
+    width: 100%; */
+     /* background: linear-gradient(180deg, #0094FF 0%, #025B9C 100%);  */
+     background-color:cadetblue;  
+
+  }
+  .navbar-brand{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color:brown;
+      font-weight:600;
+  }
+  .nav-link{
+      font-family:'Times New Roman', Times, serif;
+      font-size: large;
+      font-weight: 600;
+      /* margin-left: 20vh; */
+      margin-left: 200px;
+
+      color:cornsilk;
+  }
+
+.form-group{
+    width: 50%;
+    margin-left:20vh;
+    margin-top: 5vh;
+}
+.container-register{
+    border-style:ridge;
+margin-left: 60vh;
+margin-right: 60vh;
+margin-top: vh;
+background-color: lightcoral;
+border-radius: 10px;
+}
+#btn{
+    margin-left: 100px;
+    width: 100px;
+    background-color:lemonchiffon;
+}
+  .container-login{
+    border-style:ridge;
+    margin-left: 60vh;
+    margin-right: 60vh;
+    margin-top:10 vh;
+    background-color: lightcoral;
+    border-radius: 10px;
+    width: 30%;
+    
+  }
+ 
+#btn-login{
+    margin-left: 100px;
+    width: 20%;
+    margin-bottom: 10px;
+    background-color: lightcyan;
+}
